@@ -20,6 +20,8 @@ It is pretty simple to use FEASRL, it onyl takes 4 simple steps before you can s
 3. Change the file name to the .conll file you are looking to analyze
 4. Press Run and answer the following questions to determine which OS you have (Answer with Y or N for all questions only).
 
+I have also added some testing examples that you can use to see the output you will expect when you analyze a different.conll file.
+
 # Notes
 
 If there are any issues or concerns, please email me at nguye3np@mail.uc.edu or open an issue in Github. Please credit me if you are planning on using it in any reasearch paper, thank you!
