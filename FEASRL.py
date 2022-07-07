@@ -21,7 +21,7 @@ if ".conll" in file_name:
         file_name = "temp.txt"
 
 #filename = "Webex_comp.txt"
-file = open(file_name, "r")
+file = open(file_name, "r", encoding="utf8")
 
 empty = []
 sentences = [[[]]]
